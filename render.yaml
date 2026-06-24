@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: AI-Skin-Disease-Backend
+
+    env: docker
+
+    rootDir: backend
+
+    dockerfilePath: ./Dockerfile
+
+    plan: free
+
+    autoDeploy: true

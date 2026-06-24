@@ -2,7 +2,7 @@ const diseaseInfo = {
   "Actinic Keratoses": {
     description:
       "A rough, scaly patch caused by long-term sun exposure. Can become cancerous if untreated.",
-    risk: "Moderate Risk",
+    risk: "Medium Risk",
     symptoms:
       "Rough skin patches, itching, burning sensation.",
     recommendation:
@@ -12,7 +12,7 @@ const diseaseInfo = {
   "Basal Cell Carcinoma": {
     description:
       "The most common type of skin cancer. Usually grows slowly.",
-    risk: "Moderate Risk",
+    risk: "Medium Risk",
     symptoms:
       "Pearly bump, non-healing sore, shiny patch.",
     recommendation:

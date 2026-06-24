@@ -151,7 +151,7 @@ export default function Result() {
                 className={
                   info.risk === "High Risk"
                     ? "risk-high"
-                    : info.risk === "Moderate Risk"
+                    : info.risk === "Medium Risk"
                     ? "risk-medium"
                     : "risk-low"
                 }

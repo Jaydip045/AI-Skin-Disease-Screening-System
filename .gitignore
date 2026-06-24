@@ -16,6 +16,6 @@ backend/uploads/
 # VS Code
 .vscode/
 
-# Node
+# Node Modules
 frontend/node_modules/
 frontend/dist/

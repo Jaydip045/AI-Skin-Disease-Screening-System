@@ -55,7 +55,7 @@ The platform is designed for dermatology education, clinical research assistance
 | 🔍 **Disease Prediction** | Classifies uploaded skin lesion images into 7 disease categories |
 | 📊 **Confidence Score** | Provides probability scores for each predicted class |
 | 🗺️ **Grad-CAM Heatmap** | Visual explanation highlighting the regions influencing the model's decision |
-| ⚠️ **Risk Assessment** | Stratifies the condition into Low / Moderate / High risk levels |
+| ⚠️ **Risk Assessment** | Stratifies the condition into Low / Medium / High risk levels |
 | 💊 **Disease Information** | Detailed clinical description, common symptoms, and context |
 | 📝 **Recommendations** | Actionable next steps based on the detected condition |
 | 📱 **Responsive UI** | Mobile-friendly interface built with React + Vite |
@@ -69,13 +69,13 @@ The model is trained to detect the following 7 skin conditions from the [HAM1000
 
 | # | Disease | Code | Risk Level |
 |---|---|---|---|
-| 1 | Actinic Keratoses | `akiec` | 🟡 Moderate |
+| 1 | Actinic Keratoses | `akiec` | 🟡 Medium |
 | 2 | Basal Cell Carcinoma | `bcc` | 🔴 High |
 | 3 | Benign Keratosis | `bkl` | 🟢 Low |
 | 4 | Dermatofibroma | `df` | 🟢 Low |
 | 5 | Melanoma | `mel` | 🔴 High |
 | 6 | Melanocytic Nevi | `nv` | 🟢 Low |
-| 7 | Vascular Lesions | `vasc` | 🟡 Moderate |
+| 7 | Vascular Lesions | `vasc` | 🟡 Medium |
 
 ---
 
@@ -189,7 +189,7 @@ ai-skin-disease-screening/
 
 Ensure the following are installed on your system:
 
-- **Python** 3.9 or higher
+- **Python** 3.11 or higher
 - **Node.js** 16 or higher & **npm**
 - **Git**
 - *(Optional)* A CUDA-compatible GPU for faster inference
@@ -200,14 +200,14 @@ Ensure the following are installed on your system:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/ai-skin-disease-screening.git
+git clone https://github.com/Jaydip045/AI-Skin-Disease-Screening-System
 cd ai-skin-disease-screening
 
 # 2. Navigate to the backend directory
 cd backend
 
 # 3. Create and activate a virtual environment (recommended)
-python -m venv venv
+python3.11 -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 
 # 4. Install dependencies

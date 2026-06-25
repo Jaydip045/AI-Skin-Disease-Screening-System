@@ -344,9 +344,10 @@ https://ai-skin-disease-backend.onrender.com/docs
 
 ## 📹 Demo Video
 
+🎥 Project Demo:
+
 ![Demo](Demo/Demo-Video.gif)
 
-🎥 Project Demo:
 ▶ [Watch Demo](Demo/Demo-Video.mp4)
 
 ## Screenshots

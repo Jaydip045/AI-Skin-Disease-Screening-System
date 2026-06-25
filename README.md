@@ -34,8 +34,10 @@
 - [API Reference](#-api-reference)
 - [AI Model Details](#-ai-model-details)
 - [How It Works](#-how-it-works)
+- [Live Demo](#-live-demo)
+  - [Demo Video](#-demo-video)
+  - [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Disclaimer](#-disclaimer)
 
 ---

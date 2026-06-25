@@ -220,8 +220,8 @@ pip install -r requirements.txt
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-The API will be available at: `http://localhost:8000`  
-Interactive API docs (Swagger UI): `http://localhost:8000/docs`
+The API will be available at: `https://ai-skin-disease-backend.onrender.com`  
+Interactive API docs (Swagger UI): `https://ai-skin-disease-backend.onrender.com/docs`
 
 ---
 
@@ -238,9 +238,9 @@ npm install
 npm run dev
 ```
 
-The frontend will be available at: `http://localhost:5173`
+The frontend will be available at: `https://ai-skin-disease-screening-system.vercel.app`
 
-> **Note:** Ensure the backend is running before using the frontend. The API base URL can be configured in `src/`. A `vercel.json` is included for deploying the frontend to [Vercel](https://vercel.com), and `render.yaml` is included in the backend for deploying to [Render](https://render.com).
+> **Note:** Ensure the backend is running before using the frontend. The API base URL can be configured in `src/`. A `vercel.json` is included for deploying the frontend to [Vercel](https://ai-skin-disease-screening-system.vercel.app), and `render.yaml` is included in the backend for deploying to [Render](https://ai-skin-disease-backend.onrender.com).
 
 ---
 

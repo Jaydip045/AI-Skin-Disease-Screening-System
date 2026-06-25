@@ -1,7 +1,7 @@
 .result-page{
   width:100%;
   min-height:100vh;
-  padding:80px 50px;
+  padding:40px 30px; /* reduced from 80px 50px */
 }
 
 /* HERO */
@@ -12,7 +12,7 @@
 }
 
 .hero-section h1{
-  font-size:90px;
+  font-size:clamp(36px, 5vw, 70px); /* responsive font size, was 90px */
   font-weight:900;
   color:#92000A;
 }
@@ -43,13 +43,13 @@
   display:grid;
 
   grid-template-columns:
-  320px
-  320px
-  420px
-  1fr;
+  1fr
+  1fr
+  1.3fr
+  1.5fr; /* was fixed 320px 320px 420px 1fr */
 
   gap:25px;
-  align-items:center;
+  align-items:start; /* was center */
 }
 
 /* COMMON */
@@ -158,7 +158,7 @@
 }
 
 .prediction-panel h2{
-  font-size:54px;
+  font-size:clamp(28px, 3vw, 48px); /* responsive, was 54px */
   color:#27187d;
   margin:30px 0;
 }
@@ -240,13 +240,6 @@
   line-height:1.8;
   font-size:large;
 }
-
-/* .risk-low{
-  color:#008a33 !important;
-  font-weight:800;
-  font-size:large;
-  text-decoration: solid;
-} */
 
 /* DISCLAIMER */
 

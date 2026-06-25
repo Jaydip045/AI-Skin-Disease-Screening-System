@@ -2,6 +2,14 @@
 
 # 🔬 AI Skin Disease Screening System
 
+> An AI-powered web application that detects common skin diseases from uploaded images using MobileNetV2 Transfer Learning and FastAPI.
+
+![GitHub stars](https://img.shields.io/github/stars/Jaydip045/AI-Skin-Disease-Screening-System?style=for-the-badge)
+
+![GitHub forks](https://img.shields.io/github/forks/Jaydip045/AI-Skin-Disease-Screening-System?style=for-the-badge)
+
+![GitHub license](https://img.shields.io/github/license/Jaydip045/AI-Skin-Disease-Screening-System?style=for-the-badge)
+
 ### An intelligent skin lesion analysis platform powered by Deep Learning & Computer Vision
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://python.org)
@@ -155,6 +163,11 @@ ai-skin-disease-screening/
 │   └── model/                      # Trained model artifact (not committed to git)
 │       └── skin_disease_model.h5   # Keras model weights
 │
+├── Demo/
+│   ├── Demo-Video.mp4              # AI Skin Disease Screening System Demo Video
+│   ├── Home.png                    # Home page
+│   └── Result.png                  # Result page
+│ 
 ├── frontend/                       # React + Vite frontend application
 │   ├── public/                     # Static assets (favicon, icons)
 │   ├── src/

@@ -340,17 +340,17 @@ https://ai-skin-disease-backend.onrender.com/docs
 ## 📹 Demo Video
 
 🎥 Project Demo:
-▶ [Watch Demo](/Users/jaydip/Desktop/AI Skin Disease Screening System/Demo/Demo-Video.mp4)
+▶ [Watch Demo](Demo/Demo-Video.mp4)
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 
-![Home](/Users/jaydip/Desktop/AI Skin Disease Screening System/Demo/Home.png)
+![Home](Demo/Home.png)
 
 ### Prediction Result
 
-![Result](/Users/jaydip/Desktop/AI Skin Disease Screening System/Demo/Result.png)
+![Result](Demo/Result.png)
 
 ---
 

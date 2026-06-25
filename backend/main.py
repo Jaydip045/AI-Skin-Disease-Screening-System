@@ -17,7 +17,6 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://ai-skin-disease-screening-system.vercel.app/",
-        "https://ai-skin-disease-backend.onrender.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],

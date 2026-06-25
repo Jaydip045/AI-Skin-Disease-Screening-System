@@ -329,6 +329,31 @@ The system uses a **Transfer Learning** approach fine-tuned on the HAM10000 data
 
 ---
 
+## 🌐 Live Demo
+
+Frontend:
+https://ai-skin-disease-screening-system.vercel.app
+
+Backend API:
+https://ai-skin-disease-backend.onrender.com/docs
+
+## 📹 Demo Video
+
+🎥 Project Demo:
+▶ [Watch Demo](/Users/jaydip/Desktop/AI Skin Disease Screening System/Demo/Demo-Video.mp4)
+
+## 📸 Screenshots
+
+### Home Page
+
+![Home](/Users/jaydip/Desktop/AI Skin Disease Screening System/Demo/Home.png)
+
+### Prediction Result
+
+![Result](/Users/jaydip/Desktop/AI Skin Disease Screening System/Demo/Result.png)
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -340,12 +365,6 @@ Contributions are welcome! Please follow these steps:
 5. **Open** a Pull Request
 
 Please follow the [Conventional Commits](https://www.conventionalcommits.org/) specification for commit messages.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 

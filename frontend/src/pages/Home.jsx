@@ -2,6 +2,7 @@ import { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 import "../styles/Home.css";
+const API = `${import.meta.env.VITE_API_URL}/predict`;
 
 export default function Home() {
   const [file, setFile] = useState(null);
@@ -26,10 +27,7 @@ export default function Home() {
     formData.append("file", file);
 
     try {
-      const response = await axios.post(
-        "http://127.0.0.1:8000/predict",
-        formData
-      );
+      const response = await axios.post(API, formData);
 
       navigate("/result", {
         state: {

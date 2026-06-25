@@ -16,7 +16,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:5173",
+        "https://ai-skin-disease-screening-system.vercel.app/",
         "https://ai-skin-disease-backend.onrender.com",
     ],
     allow_credentials=True,

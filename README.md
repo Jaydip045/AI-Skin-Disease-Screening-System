@@ -361,6 +361,12 @@ https://ai-skin-disease-backend.onrender.com/docs
 
 ![Result](Demo/Result.png)
 
+###🧪 Sample test images:
+
+<img width="224" height="224" alt="ISIC_0024306" src="https://github.com/user-attachments/assets/a8b219e1-b280-4270-8959-10d684e57473" />
+<img width="224" height="224" alt="ISIC_0024310" src="https://github.com/user-attachments/assets/b14f45ee-e940-4e94-bfe0-00bd635e5e8f" />
+<img width="224" height="224" alt="ISIC_0024326" src="https://github.com/user-attachments/assets/602f310b-546e-40a3-9982-69f711fd680d" />
+
 ---
 
 ## 🤝 Contributing

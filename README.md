@@ -161,9 +161,9 @@ ai-skin-disease-screening/
 │   ├── Demo-Video.mp4              # AI Skin Disease Screening System Demo Video
 │   ├── Home.png                    # Home page
 │   ├── Result.png                  # Result page
-│   ├── Sample-Image-1.png          # Sample image 1
-│   ├── Sample-Image-2.png          # Sample image 2
-│   └── Sample-Image-3.png          # Sample image 3
+│   ├── Image1.png                  # Sample image 1
+│   ├── Image2.png                  # Sample image 2
+│   └── Image3.png                  # Sample image 3
 │ 
 ├── frontend/                       # React + Vite frontend application
 │   ├── public/                     # Static assets (favicon, icons)
@@ -367,9 +367,9 @@ https://ai-skin-disease-backend.onrender.com/docs
 
 ## 🧪 Sample Test Images:
 
-![Sample Image 1](Demo/Sample-Image-1.png)
-![Sample Image 2](Demo/Sample-Image-2.png)
-![Sample Image 3](Demo/Sample-Image-3.png)
+![Image1](Demo/Sample-Image-1.png)
+![Image2](Demo/Sample-Image-2.png)
+![Image3](Demo/Sample-Image-3.png)
 
 ---
 

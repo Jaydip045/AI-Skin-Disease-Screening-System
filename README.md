@@ -367,10 +367,12 @@ https://ai-skin-disease-backend.onrender.com/docs
 
 ## 🧪 Sample Test Images:
 
-![Image1](Demo/Image1.jpg)
-▶ [Download](Demo/Image1.jpg)
-![Image2](Demo/Image2.jpg)
-![Image3](Demo/Image3.jpg)
+## 🧪 Sample Test Images
+
+| Image 1 | Image 2 | Image 3 |
+|:---:|:----:|:----:|
+| [⬇ Download](Demo/Image1.jpg) | [⬇ Download](Demo/Image2.jpg) | [⬇ Download](Demo/Image3.jpg) |
+| ![Image 1](Demo/Image1.jpg) | ![Image 2](Demo/Image2.jpg) | ![Image 3](Demo/Image3.jpg) |
 
 ---
 

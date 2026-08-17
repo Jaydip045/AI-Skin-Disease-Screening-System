@@ -36,7 +36,7 @@
 - [Live Demo](#-live-demo)
   - [Demo Video](#-demo-video)
   - [Screenshots](#-screenshots)
-  - [Images](#-Sample-images)
+  - [Sample Images](#-Sample-images)
 - [Contributing](#-contributing)
 - [Disclaimer](#-disclaimer)
 
@@ -161,7 +161,9 @@ ai-skin-disease-screening/
 │   ├── Demo-Video.mp4              # AI Skin Disease Screening System Demo Video
 │   ├── Home.png                    # Home page
 │   ├── Result.png                  # Result page
-│   └── Images.png                  # Sample images
+│   ├── Sample-Image-1.png          # Sample image 1
+│   ├── Sample-Image-2.png          # Sample image 2
+│   └── Sample-Image-3.png          # Sample image 3
 │ 
 ├── frontend/                       # React + Vite frontend application
 │   ├── public/                     # Static assets (favicon, icons)
@@ -363,11 +365,11 @@ https://ai-skin-disease-backend.onrender.com/docs
 
 ![Result](Demo/Result.png)
 
-## 🧪 Sample test images:
+## 🧪 Sample Test Images:
 
-<img width="224" height="224" alt="ISIC_0024306" src="https://github.com/user-attachments/assets/a8b219e1-b280-4270-8959-10d684e57473" />
-<img width="224" height="224" alt="ISIC_0024310" src="https://github.com/user-attachments/assets/b14f45ee-e940-4e94-bfe0-00bd635e5e8f" />
-<img width="224" height="224" alt="ISIC_0024326" src="https://github.com/user-attachments/assets/602f310b-546e-40a3-9982-69f711fd680d" />
+![Sample Image 1](Demo/Sample-Image-1.png)
+![Sample Image 2](Demo/Sample-Image-2.png)
+![Sample Image 3](Demo/Sample-Image-3.png)
 
 ---
 
